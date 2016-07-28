@@ -26,4 +26,10 @@
  - How's The Weather: get weather data from the weather center
  - https://github.com/seunghee2/Swift2-web_data_example
 
+- Map example
+ - My Places: add some places that user's wanted to table view
+ - https://github.com/seunghee2/Swift2-Map_example
 
+- Geolocation example
+ - Where Am I: guess user's location information such as latitude, longitude, nearby address, etc.
+ - https://github.com/seunghee2/Swift2-Geolocation_example
